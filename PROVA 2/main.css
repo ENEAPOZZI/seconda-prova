@@ -1,0 +1,56 @@
+html { 
+	background: url(suono.avif); 
+    background-size:auto;
+}
+
+
+form{
+    margin:200px auto;  
+    width: 300px; 
+    height: 300px; 
+    text-align: center;
+}
+
+
+.items{
+    
+    margin-top: 10px;
+    
+}
+
+
+H2{ color:red;
+    font-size: 40px;
+}
+
+H3{ color:red;
+    font-size: 25px;
+    margin-bottom: 5px;
+    
+}
+
+.generi{ color:white;
+    font-size: 15px;
+    margin-top: 3px;
+    
+     
+}
+
+
+.termini{ color:white;
+
+        margin-top: 10px;
+     
+}
+
+
+button { 
+    color: white;
+    background: red;
+    border-radius: 30%;
+    margin-top: 10px;
+
+ 
+}
+
+
